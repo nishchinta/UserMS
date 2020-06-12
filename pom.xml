@@ -23,6 +23,12 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
 	</properties>
+	<properties>
+  	<sonar.projectKey>nishchinta_UserMS</sonar.projectKey>
+  	<sonar.organization>nishchinta</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  	<sonar.login>b647e4b02749440a466d41d2834512c1c4c9e3e7</sonar.login>
+</properties>
 <dependencyManagement>
 		<dependencies>
 			<dependency>
